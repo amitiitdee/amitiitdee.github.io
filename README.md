@@ -1,6 +1,16 @@
-# amitiitdee.github.io
+<h1 align="right"> Amit Kumar</h1>
+<p align="right">
+<small>M.TECH(ICT), B.TECH(EE) IIT D</small><br>
+<small>Learner, Teacher, Entrepreneur</small>
+</p>
 
-### test repo for amit
+<p>Problem solver and thinker. Exploring out of the box solutions to problems.</p>
 
-some sample text.
-this is work in progress.
+### Skills
+
+- HTML5, CSS3, JavaScript
+- Angular, NodeJS, MongoDb
+- Python, .NET, PHP
+- Google Cloud Platform
+- Google AppScript
+- Microsoft 365
