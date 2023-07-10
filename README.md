@@ -15,6 +15,4 @@
 - Google AppScript
 - Microsoft 365
 
-<img src="./logos/angular-white-transparent.svg" width="128" alt="angular">
-
-[resume](https://amitiitdee.github.io/)
+[resume](./resume/index.html)
