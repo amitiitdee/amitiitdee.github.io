@@ -9,3 +9,12 @@ The purpose of this repository is to build a functional website for showcasing m
 - showcase project
 - check if multiple pages are supported
 - folder structure and navigation
+
+## Projects
+
+* Equation Editor
+* Mathematical Animation
+* Data Visualization
+* Mathematics Book
+* Irodov Problems
+* JEE Question Papers
