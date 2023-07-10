@@ -14,5 +14,3 @@
 - Google Cloud Platform
 - Google AppScript
 - Microsoft 365
-
-[resume](./resume/index.html)
