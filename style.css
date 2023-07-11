@@ -1,3 +1,18 @@
 .bg-header {
   background-color: #712cf9;
 }
+.bg-footer {
+  background-color: rgb(241, 245, 245);
+}
+
+main {
+  margin-top: 65px;
+  margin-bottom: 45px;
+  padding: 15px;
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+}
