@@ -1,0 +1,112 @@
+{
+  "name": "Amit Kumar",
+  "contact_heading": "Contact",
+  "contact_details": {
+    "email": "amit.kumar@email.com",
+    "phone": "+91 11111-22222",
+    "website": "",
+    "github": "amit.kumar",
+    "linkedin": "amit.kumar"
+  },
+  "summary_heading": "Executive Summary",
+  "summary_content": "Life long learner and curiosity driven individual. Passionate about science and engineering in general. Always experimenting with new ideas and building stuff. Worked in Intellectual Property Research & Data Analytics with a few start-ups and a leading KPO. Proven expertise in Microsoft Office, VBA, Reporting & Automation. Hands on development experience in VSTO Add-Ins and desktop applications with .NET Framework. Over a decade of experience in managing small business and associated challenges using actionable insights. Providing cost effective solutions to individuals and small businesses. Current interrests include web applications, data science, and cloud services.",
+  "education_heading": "Education",
+  "education": [
+    { "degree": "B.Tech(EE)", "institution": "IITD" },
+    { "degree": "M.Tech(ICT)", "institution": "IITD" }
+  ],
+  "certifications_heading": "Certifications",
+  "certifications": [
+    { "name": "Frontend", "courses": ["Angular", "ECMAScript 6+", "React"] },
+    { "name": "Backend", "courses": ["Express", "Node.js", "MongoDB"] },
+    {
+      "name": "Cloud",
+      "courses": ["Firebase", "Google Cloud Platform"]
+    }
+  ],
+  "skills_heading": "Skills",
+  "skills": [
+    { "name": "Frontend", "keywords": ["Html5", "CSS3", "JavaScript"] },
+    { "name": "Frontend", "keywords": ["Angular", "React", "Vue"] },
+    { "name": "Backend", "keywords": ["Express", "Nodejs", "Mongodb"] }
+  ],
+  "projects_heading": "Projects",
+  "projects": [
+    {
+      "title": "Password Manager",
+      "keywords": ["Password Manager"]
+    },
+    {
+      "title": "Expense Tracker",
+      "keywords": ["Expense Tracker"]
+    },
+    {
+      "title": "Equation Editor",
+      "keywords": ["Equation Editor"]
+    },
+    {
+      "title": "Habit Tracker",
+      "keywords": ["Habit Tracker"]
+    },
+
+    {
+      "title": "SVG Animation",
+      "keywords": ["Gears Animation"]
+    },
+    {
+      "title": "Interactive Visualizations",
+      "keywords": ["Interactive Data Visualizations"]
+    }
+  ],
+  "experience_heading": "Experience",
+  "work": [
+    {
+      "title": "Consultant",
+      "duration": "[2014 - Present]",
+      "company": "Self Employed",
+      "location": "Remote",
+      "details": [
+        "Web Applications",
+        "Chrome Extensions",
+        "Office Add-Ins & Scripts",
+        "Technical Documentation",
+        "Custom Automation Solutions",
+        "Training & Upskilling Content",
+        "Educational Content Development"
+      ]
+    },
+    {
+      "title": "Manager",
+      "duration": "[2013 - 2013]",
+      "company": "Confidential",
+      "location": "India",
+      "details": [
+        "Projects & Team Management",
+        "Standard Reports & Process Automation",
+        "Clients Interaction & Deliverable Quality Assurance"
+      ]
+    },
+    {
+      "title": "Senior Associate",
+      "duration": "[2010 - 2012]",
+      "company": "Confidential",
+      "location": "India",
+      "details": [
+        "Pilot Projects",
+        "Reports & Automation Add-Ins",
+        "Standard IP Projects [Searches, Infringement, Landscapes]"
+      ]
+    },
+    {
+      "title": "Associate",
+      "duration": "[2008 - 2009]",
+      "company": "Confidential",
+      "location": "India",
+      "details": [
+        "Landscape Analysis",
+        "Infringement Analysis & Claim Charts",
+        "Prior Art Searches [Validity, Freedom to Operate, State of Art]"
+      ]
+    }
+  ]
+}
