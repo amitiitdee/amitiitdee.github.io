@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Amit Kumar",
+    "label": "Web Developer",
+    "image": "google.com",
+    "summary": "I'm a full stack web developer",
+    "email": "username@email.com",
+    "phone": "(912) 555-4321",
+    "website": "google.com",
+    "location": {
+      "city": "New Delhi",
+      "countryCode": "IN",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "username": "username",
+        "url": "https://twitter.com/username",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/username",
+        "username": "username",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2005-05-31",
+      "startDate": "2001-07-01",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelors",
+      "institution": "Indian Institute of Technology, Delhi"
+    },
+    {
+      "endDate": "2008-05-31",
+      "startDate": "2006-07-01",
+      "area": "Information and Communication Technology",
+      "studyType": "Masters",
+      "institution": "Indian Institute of Technology, Delhi"
+    }
+  ],
+  "references": [
+    {
+      "reference": "",
+      "name": ""
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Typescript",
+        "Angular",
+        "React",
+        "Vue"
+      ],
+      "level": "Senior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Node", "Ruby", "Python", "MySql", "Express", "Mongo"],
+      "level": "Senior",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["AWS", "Google Cloud", "Heroku", "Netlify"],
+      "level": "Senior",
+      "name": "Cloud"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Employee",
+      "awarder": "Company"
+    }
+  ],
+  "work": [
+    {
+      "summary": "",
+      "website": "google.com",
+      "name": "Confidential",
+      "location": "India",
+      "position": "Senior Javascript Developer",
+      "startDate": "2020-05-05",
+      "highlights": ["React", "Redux", "SCSS", "Product"]
+    },
+    {
+      "summary": "",
+      "website": "google.com",
+      "name": "Confidential",
+      "location": "Melbourne",
+      "position": "Senior Javascript Developer",
+      "startDate": "2018-03-01",
+      "endDate": "2020-01-01",
+      "highlights": [
+        "React, Apollo, Styled Components",
+        "Node.js / Rails",
+        "Docker / Heroku / GCP",
+        "Used Figma for design and UX work",
+        "Optimizing markets with tens of millions of rows using SQL."
+      ]
+    },
+    {
+      "summary": "",
+      "website": "google.com",
+      "pinned": true,
+      "name": "Confidential",
+      "position": "Developer",
+      "startDate": "2016-01-01",
+      "endDate": "2018-01-01",
+      "highlights": [
+        "Worked with Postgres, Redis and Dynamodb for storage.",
+        "Hosted on a mixture of Heroku Apps and EC2 servers.",
+        "Caching by Fastly and Cloudflare",
+        "Hybrid app supported on all platforms"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "highlights": [
+        "This resume is built with JSON Resume",
+        "Over 3000 stars on Github",
+        "Community developed themes",
+        "Tens of thousands of users"
+      ],
+      "description": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
+      "website": "http://jsonresume.org",
+      "name": "JSON Resume",
+      "startDate": "2014-04-01"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gardening",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Music / Jamming",
+      "keywords": []
+    },
+    {
+      "name": "Reading / Writing",
+      "keywords": []
+    },
+    {
+      "name": "Open Source",
+      "keywords": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
